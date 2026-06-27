@@ -1,0 +1,33 @@
+HOJA DE VIDA DEL DOCTOR
+
+Nombres: Carlos Andrés
+Apellidos: Mendoza Ruiz
+Cédula: 0000000000
+Fecha de nacimiento: 15 de marzo de 1985
+Especialidad: Medicina Interna
+Registro profesional: MED-EC-00001
+Teléfono: 099 000 0000
+Correo: carlos.mendoza@ejemplo.com
+Dirección: Quito, Ecuador
+
+PERFIL PROFESIONAL
+Médico especialista en Medicina Interna, orientado a la atención integral
+del paciente, la prevención de enfermedades y el trabajo interdisciplinario.
+
+FORMACIÓN ACADÉMICA
+- Doctor en Medicina, Universidad de Ejemplo, 2010.
+- Especialista en Medicina Interna, Hospital Universitario de Ejemplo, 2015.
+- Curso de actualización en emergencias clínicas, 2025.
+
+EXPERIENCIA PROFESIONAL
+- Médico internista, Hospital General de Ejemplo, 2016 - actualidad.
+- Médico residente, Clínica de Ejemplo, 2011 - 2015.
+
+HABILIDADES
+- Evaluación clínica y diagnóstico.
+- Manejo integral de pacientes adultos.
+- Comunicación efectiva y trabajo en equipo.
+- Elaboración de historias clínicas e informes médicos.
+
+REFERENCIAS
+Disponibles bajo solicitud.

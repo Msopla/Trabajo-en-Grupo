@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Modelo">
+      <UniqueIdentifier>{9DB038F6-A746-46F7-90D0-2BE9E77271B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vista">
+      <UniqueIdentifier>{65F979D9-1D37-4388-A9C1-850A839AD117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controlador">
+      <UniqueIdentifier>{D10A17BD-9578-4577-83D9-99BA3B039B67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Modelo\Archivo.h">
+      <Filter>Modelo</Filter>
+    </ClInclude>
+    <ClInclude Include="Modelo\ExcepcionesArchivo.h">
+      <Filter>Modelo</Filter>
+    </ClInclude>
+    <ClInclude Include="Vista\IVistaArchivo.h">
+      <Filter>Vista</Filter>
+    </ClInclude>
+    <ClInclude Include="Vista\VistaPrincipal.h">
+      <Filter>Vista</Filter>
+    </ClInclude>
+    <ClInclude Include="Controlador\ControladorArchivo.h">
+      <Filter>Controlador</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Modelo\Archivo.cpp">
+      <Filter>Modelo</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+</Project>
